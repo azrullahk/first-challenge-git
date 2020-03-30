@@ -11,6 +11,6 @@ Di masa depan, saya ingin membangun perusahaan saya sendiri untuk memecahkan mas
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
 
-Setelah lulusan dari program Immersive saya ingin mengajar sambil terus belajar.
+Setelah lulus dari program Immersive saya ingin mengajar sambil terus belajar. Selain belajar technology stacks yang ada, saya juga ini belajar lebih lanjut tentang data analysis dan product management.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
