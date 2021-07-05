@@ -1,8 +1,10 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
 ## Latar Belakang
+Seni
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
+Biar jadi orang kaya
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
